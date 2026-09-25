@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Node
+node_modules/
+npm-debug.log
+
+# Course repo (cloned separately by students)
+course-repo/openclaw/
+
+# Student notes (personal, not shared)
+artifacts/personal-notes/
+*.local.md
